@@ -11,8 +11,8 @@ public class App3 {
     public static void main(String[] args) {
         App3 app = new App3();
 
-        int result = app.add(2, 3);
-        System.out.println("2 + 3 = " + result);
+        int result = app.add(2, 4);
+        System.out.println("2 + 4 = " + result);
         System.out.println("Application executed successfully!");
     }
 }
