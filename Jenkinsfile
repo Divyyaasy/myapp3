@@ -10,7 +10,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/Divyyaasy/myapp3.git'
+                git 'https://github.com/your-repo/eclipse-project.git'
             }
         }
 
